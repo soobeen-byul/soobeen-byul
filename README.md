@@ -1,8 +1,6 @@
 ### 🙌 Welcome to soobeen-byul
 
-Hi, there! I'm Soobeen Hwang, dreaming of becoming an analyst and studying data analysis and engineering. 👋 
-
-
+Hi, there! I'm Soobeen Hwang, dreaming of becoming an **data analyst** and studying **data analysis and engineering**. 🚀
 
 
 ### 💪 Skills
